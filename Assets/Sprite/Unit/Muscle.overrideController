@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Muscle
+  m_Controller: {fileID: 9100000, guid: 21726d0861596134aa4e3bf897e95ccb, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5de86470415db854d979ca6a20040c9f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 67f800787c361584fb6f9717f1236e1c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7895c3609e9a684488dc41368d674798, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b359c9d19a357894f95e561edf1ea7c3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a84e67cc80f6bdf42938dcf34bf0ff2c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cb1cf22942732ce4d83a89280b8fc0f8, type: 2}

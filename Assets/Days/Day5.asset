@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5360184a5da2f04449e8cb42e1a31b6d, type: 3}
+  m_Name: Day5
+  m_EditorClassIdentifier: 
+  SpawnConditions:
+  - Type: 0
+    limit: 5
+    interval: 5
+  - Type: 2
+    limit: 10
+    interval: 4
+  - Type: 3
+    limit: 10
+    interval: 3
+  - Type: 1
+    limit: 6
+    interval: 6
+  EnviriomentAmount: 40
